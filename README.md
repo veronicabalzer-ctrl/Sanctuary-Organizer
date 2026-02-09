@@ -1,2 +1,1 @@
-# Sanctuary-Organizer
-Script automatizado en Python para organizar archivos por categorías y gestionar duplicados
+Hola! He estado trabajando en mis habilidades con Python y acabo de completar mi primer proyecto de automatización. Se trata de un organizador de archivos que no solo pone orden, sino que protege los datos evitando duplicados. El código es orden y el orden es paz mental.
